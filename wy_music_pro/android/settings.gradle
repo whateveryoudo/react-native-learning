@@ -1,0 +1,3 @@
+rootProject.name = 'wy_music_pro'
+
+include ':app'
